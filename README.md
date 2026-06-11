@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Apple Stock Price Prediction using Deep Learning (LSTM)
 
 ## Project Overview
@@ -46,7 +45,7 @@ The final model achieved a minimal training MSE loss of **0.0015**, indicating h
 ### Visual Evaluation
 To evaluate performance on unseen data, the predictions on the 20% test set were inverse-scaled back to their original USD values. The plotted comparison between the **Actual Price** and **Predicted Price** demonstrates that the LSTM model successfully replicates the overall market trajectory and closely follows the actual daily fluctuations of the AAPL stock price.
 
-![Visualization](visualization/ouput.png)
+![Visualization](visualization/output.png)
 ## Project Structure
 
 ```text
