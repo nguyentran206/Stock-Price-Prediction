@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Apple Stock Price Prediction using Deep Learning (LSTM)
 
 ## Project Overview
